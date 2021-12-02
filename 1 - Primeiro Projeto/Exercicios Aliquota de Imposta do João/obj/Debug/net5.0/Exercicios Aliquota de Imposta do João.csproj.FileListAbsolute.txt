@@ -1,0 +1,16 @@
+C:\Users\Marcos\source\repos\1 - Primeiro Projeto\Exercicios Aliquota de Imposta do João\bin\Debug\net5.0\Exercicios Aliquota de Imposta do João.exe
+C:\Users\Marcos\source\repos\1 - Primeiro Projeto\Exercicios Aliquota de Imposta do João\bin\Debug\net5.0\Exercicios Aliquota de Imposta do João.deps.json
+C:\Users\Marcos\source\repos\1 - Primeiro Projeto\Exercicios Aliquota de Imposta do João\bin\Debug\net5.0\Exercicios Aliquota de Imposta do João.runtimeconfig.json
+C:\Users\Marcos\source\repos\1 - Primeiro Projeto\Exercicios Aliquota de Imposta do João\bin\Debug\net5.0\Exercicios Aliquota de Imposta do João.runtimeconfig.dev.json
+C:\Users\Marcos\source\repos\1 - Primeiro Projeto\Exercicios Aliquota de Imposta do João\bin\Debug\net5.0\Exercicios Aliquota de Imposta do João.dll
+C:\Users\Marcos\source\repos\1 - Primeiro Projeto\Exercicios Aliquota de Imposta do João\bin\Debug\net5.0\ref\Exercicios Aliquota de Imposta do João.dll
+C:\Users\Marcos\source\repos\1 - Primeiro Projeto\Exercicios Aliquota de Imposta do João\bin\Debug\net5.0\Exercicios Aliquota de Imposta do João.pdb
+C:\Users\Marcos\source\repos\1 - Primeiro Projeto\Exercicios Aliquota de Imposta do João\obj\Debug\net5.0\Exercicios Aliquota de Imposta do João.csproj.AssemblyReference.cache
+C:\Users\Marcos\source\repos\1 - Primeiro Projeto\Exercicios Aliquota de Imposta do João\obj\Debug\net5.0\Exercicios Aliquota de Imposta do João.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\source\repos\1 - Primeiro Projeto\Exercicios Aliquota de Imposta do João\obj\Debug\net5.0\Exercicios Aliquota de Imposta do João.AssemblyInfoInputs.cache
+C:\Users\Marcos\source\repos\1 - Primeiro Projeto\Exercicios Aliquota de Imposta do João\obj\Debug\net5.0\Exercicios Aliquota de Imposta do João.AssemblyInfo.cs
+C:\Users\Marcos\source\repos\1 - Primeiro Projeto\Exercicios Aliquota de Imposta do João\obj\Debug\net5.0\Exercicios Aliquota de Imposta do João.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\source\repos\1 - Primeiro Projeto\Exercicios Aliquota de Imposta do João\obj\Debug\net5.0\Exercicios Aliquota de Imposta do João.dll
+C:\Users\Marcos\source\repos\1 - Primeiro Projeto\Exercicios Aliquota de Imposta do João\obj\Debug\net5.0\ref\Exercicios Aliquota de Imposta do João.dll
+C:\Users\Marcos\source\repos\1 - Primeiro Projeto\Exercicios Aliquota de Imposta do João\obj\Debug\net5.0\Exercicios Aliquota de Imposta do João.pdb
+C:\Users\Marcos\source\repos\1 - Primeiro Projeto\Exercicios Aliquota de Imposta do João\obj\Debug\net5.0\Exercicios Aliquota de Imposta do João.genruntimeconfig.cache

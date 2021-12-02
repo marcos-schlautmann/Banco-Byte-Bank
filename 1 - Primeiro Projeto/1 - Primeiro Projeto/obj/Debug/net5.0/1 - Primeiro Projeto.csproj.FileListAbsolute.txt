@@ -1,0 +1,16 @@
+C:\Users\Marcos\source\repos\1 - Primeiro Projeto\1 - Primeiro Projeto\bin\Debug\net5.0\1 - Primeiro Projeto.exe
+C:\Users\Marcos\source\repos\1 - Primeiro Projeto\1 - Primeiro Projeto\bin\Debug\net5.0\1 - Primeiro Projeto.deps.json
+C:\Users\Marcos\source\repos\1 - Primeiro Projeto\1 - Primeiro Projeto\bin\Debug\net5.0\1 - Primeiro Projeto.runtimeconfig.json
+C:\Users\Marcos\source\repos\1 - Primeiro Projeto\1 - Primeiro Projeto\bin\Debug\net5.0\1 - Primeiro Projeto.runtimeconfig.dev.json
+C:\Users\Marcos\source\repos\1 - Primeiro Projeto\1 - Primeiro Projeto\bin\Debug\net5.0\1 - Primeiro Projeto.dll
+C:\Users\Marcos\source\repos\1 - Primeiro Projeto\1 - Primeiro Projeto\bin\Debug\net5.0\ref\1 - Primeiro Projeto.dll
+C:\Users\Marcos\source\repos\1 - Primeiro Projeto\1 - Primeiro Projeto\bin\Debug\net5.0\1 - Primeiro Projeto.pdb
+C:\Users\Marcos\source\repos\1 - Primeiro Projeto\1 - Primeiro Projeto\obj\Debug\net5.0\1 - Primeiro Projeto.csproj.AssemblyReference.cache
+C:\Users\Marcos\source\repos\1 - Primeiro Projeto\1 - Primeiro Projeto\obj\Debug\net5.0\1 - Primeiro Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\source\repos\1 - Primeiro Projeto\1 - Primeiro Projeto\obj\Debug\net5.0\1 - Primeiro Projeto.AssemblyInfoInputs.cache
+C:\Users\Marcos\source\repos\1 - Primeiro Projeto\1 - Primeiro Projeto\obj\Debug\net5.0\1 - Primeiro Projeto.AssemblyInfo.cs
+C:\Users\Marcos\source\repos\1 - Primeiro Projeto\1 - Primeiro Projeto\obj\Debug\net5.0\1 - Primeiro Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\source\repos\1 - Primeiro Projeto\1 - Primeiro Projeto\obj\Debug\net5.0\1 - Primeiro Projeto.dll
+C:\Users\Marcos\source\repos\1 - Primeiro Projeto\1 - Primeiro Projeto\obj\Debug\net5.0\ref\1 - Primeiro Projeto.dll
+C:\Users\Marcos\source\repos\1 - Primeiro Projeto\1 - Primeiro Projeto\obj\Debug\net5.0\1 - Primeiro Projeto.pdb
+C:\Users\Marcos\source\repos\1 - Primeiro Projeto\1 - Primeiro Projeto\obj\Debug\net5.0\1 - Primeiro Projeto.genruntimeconfig.cache

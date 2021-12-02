@@ -1,0 +1,16 @@
+C:\Users\Marcos\source\repos\01-BitBankContas\02-BitBank\bin\Debug\net5.0\02-BitBank.exe
+C:\Users\Marcos\source\repos\01-BitBankContas\02-BitBank\bin\Debug\net5.0\02-BitBank.deps.json
+C:\Users\Marcos\source\repos\01-BitBankContas\02-BitBank\bin\Debug\net5.0\02-BitBank.runtimeconfig.json
+C:\Users\Marcos\source\repos\01-BitBankContas\02-BitBank\bin\Debug\net5.0\02-BitBank.runtimeconfig.dev.json
+C:\Users\Marcos\source\repos\01-BitBankContas\02-BitBank\bin\Debug\net5.0\02-BitBank.dll
+C:\Users\Marcos\source\repos\01-BitBankContas\02-BitBank\bin\Debug\net5.0\ref\02-BitBank.dll
+C:\Users\Marcos\source\repos\01-BitBankContas\02-BitBank\bin\Debug\net5.0\02-BitBank.pdb
+C:\Users\Marcos\source\repos\01-BitBankContas\02-BitBank\obj\Debug\net5.0\02-BitBank.csproj.AssemblyReference.cache
+C:\Users\Marcos\source\repos\01-BitBankContas\02-BitBank\obj\Debug\net5.0\02-BitBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\source\repos\01-BitBankContas\02-BitBank\obj\Debug\net5.0\02-BitBank.AssemblyInfoInputs.cache
+C:\Users\Marcos\source\repos\01-BitBankContas\02-BitBank\obj\Debug\net5.0\02-BitBank.AssemblyInfo.cs
+C:\Users\Marcos\source\repos\01-BitBankContas\02-BitBank\obj\Debug\net5.0\02-BitBank.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\source\repos\01-BitBankContas\02-BitBank\obj\Debug\net5.0\02-BitBank.dll
+C:\Users\Marcos\source\repos\01-BitBankContas\02-BitBank\obj\Debug\net5.0\ref\02-BitBank.dll
+C:\Users\Marcos\source\repos\01-BitBankContas\02-BitBank\obj\Debug\net5.0\02-BitBank.pdb
+C:\Users\Marcos\source\repos\01-BitBankContas\02-BitBank\obj\Debug\net5.0\02-BitBank.genruntimeconfig.cache

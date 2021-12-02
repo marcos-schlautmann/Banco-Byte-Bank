@@ -1,0 +1,16 @@
+C:\Users\Marcos\source\repos\1 - Primeiro Projeto\3 -CriandoVariaveisPontoFlutuante\bin\Debug\net5.0\3 -CriandoVariaveisPontoFlutuante.exe
+C:\Users\Marcos\source\repos\1 - Primeiro Projeto\3 -CriandoVariaveisPontoFlutuante\bin\Debug\net5.0\3 -CriandoVariaveisPontoFlutuante.deps.json
+C:\Users\Marcos\source\repos\1 - Primeiro Projeto\3 -CriandoVariaveisPontoFlutuante\bin\Debug\net5.0\3 -CriandoVariaveisPontoFlutuante.runtimeconfig.json
+C:\Users\Marcos\source\repos\1 - Primeiro Projeto\3 -CriandoVariaveisPontoFlutuante\bin\Debug\net5.0\3 -CriandoVariaveisPontoFlutuante.runtimeconfig.dev.json
+C:\Users\Marcos\source\repos\1 - Primeiro Projeto\3 -CriandoVariaveisPontoFlutuante\bin\Debug\net5.0\3 -CriandoVariaveisPontoFlutuante.dll
+C:\Users\Marcos\source\repos\1 - Primeiro Projeto\3 -CriandoVariaveisPontoFlutuante\bin\Debug\net5.0\ref\3 -CriandoVariaveisPontoFlutuante.dll
+C:\Users\Marcos\source\repos\1 - Primeiro Projeto\3 -CriandoVariaveisPontoFlutuante\bin\Debug\net5.0\3 -CriandoVariaveisPontoFlutuante.pdb
+C:\Users\Marcos\source\repos\1 - Primeiro Projeto\3 -CriandoVariaveisPontoFlutuante\obj\Debug\net5.0\3 -CriandoVariaveisPontoFlutuante.csproj.AssemblyReference.cache
+C:\Users\Marcos\source\repos\1 - Primeiro Projeto\3 -CriandoVariaveisPontoFlutuante\obj\Debug\net5.0\3 -CriandoVariaveisPontoFlutuante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\source\repos\1 - Primeiro Projeto\3 -CriandoVariaveisPontoFlutuante\obj\Debug\net5.0\3 -CriandoVariaveisPontoFlutuante.AssemblyInfoInputs.cache
+C:\Users\Marcos\source\repos\1 - Primeiro Projeto\3 -CriandoVariaveisPontoFlutuante\obj\Debug\net5.0\3 -CriandoVariaveisPontoFlutuante.AssemblyInfo.cs
+C:\Users\Marcos\source\repos\1 - Primeiro Projeto\3 -CriandoVariaveisPontoFlutuante\obj\Debug\net5.0\3 -CriandoVariaveisPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\source\repos\1 - Primeiro Projeto\3 -CriandoVariaveisPontoFlutuante\obj\Debug\net5.0\3 -CriandoVariaveisPontoFlutuante.dll
+C:\Users\Marcos\source\repos\1 - Primeiro Projeto\3 -CriandoVariaveisPontoFlutuante\obj\Debug\net5.0\ref\3 -CriandoVariaveisPontoFlutuante.dll
+C:\Users\Marcos\source\repos\1 - Primeiro Projeto\3 -CriandoVariaveisPontoFlutuante\obj\Debug\net5.0\3 -CriandoVariaveisPontoFlutuante.pdb
+C:\Users\Marcos\source\repos\1 - Primeiro Projeto\3 -CriandoVariaveisPontoFlutuante\obj\Debug\net5.0\3 -CriandoVariaveisPontoFlutuante.genruntimeconfig.cache

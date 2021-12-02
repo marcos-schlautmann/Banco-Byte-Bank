@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ExercicioImprimiMultiploDe3/1.0.0": {
+        "runtime": {
+          "ExercicioImprimiMultiploDe3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExercicioImprimiMultiploDe3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
